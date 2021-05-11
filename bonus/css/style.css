@@ -1,0 +1,26 @@
+
+
+[class^=col]{
+    background-color: tomato;
+    height: 80px;
+
+}
+
+.brown{
+    background-color: brown;
+}
+
+.black{
+    background-color: black;
+}
+ .blu{
+    background-color: #1ABC9C;
+ }
+
+ .orange{
+     background-color: #E67E22;
+ }
+
+ .white{
+     background-color: #fff;
+ }
